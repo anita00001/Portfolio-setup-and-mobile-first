@@ -63,7 +63,7 @@ body {
   background: #c4c4c4;
 }
 
-.title {
+h1 {
   position: absolute;
   width: 220px;
   height: 100px;
@@ -77,12 +77,13 @@ body {
   color: #1a2236;
 }
 
-.bio p {
+p {
   position: absolute;
   width: 288px;
   height: 126px;
   left: 16px;
-  top: 224px;
+  /* top: 224px; */
+  top: 270px;
   font-family: sans-serif;
   font-style: normal;
   font-weight: 400;

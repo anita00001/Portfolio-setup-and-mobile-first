@@ -91,28 +91,3 @@ p {
   letter-spacing: -0.01em;
   color: #1a2236;
 }
-
-.button {
-  box-sizing: border-box;
-  position: absolute;
-  width: 288px;
-  height: 50px;
-  left: 16px;
-  top: 390px;
-  background: #1a2236;
-}
-
-.text {
-  position: absolute;
-  width: 203.68px;
-  height: 26.47px;
-  left: 58px;
-  top: 402px;
-  font-family: sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  text-align: center;
-  color: #fff;
-}

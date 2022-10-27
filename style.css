@@ -1,0 +1,119 @@
+
+main {
+  position: relative;
+  width: 320px;
+  height: 4910px;
+  background: #fff;
+}
+
+body {
+  background: #e5e5e5;
+}
+
+.header {
+  display: block;
+}
+
+#nav {
+  display: flex;
+}
+
+.logo {
+  display: flex;
+}
+
+.logo1 {
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  right: 246px;
+}
+
+.logo2 {
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  right: 209px;
+}
+
+.line1 {
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  left: 284px;
+  top: 19px;
+  background: #c4c4c4;
+}
+
+.line2 {
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  left: 284px;
+  top: 25px;
+  background: #c4c4c4;
+}
+
+.line3 {
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  left: 284px;
+  top: 31px;
+  background: #c4c4c4;
+}
+
+h1 {
+  position: absolute;
+  width: 220px;
+  height: 100px;
+  left: 16px;
+  top: 104px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 100%;
+  color: #1a2236;
+}
+
+p {
+  position: absolute;
+  width: 288px;
+  height: 126px;
+  left: 16px;
+  /* top: 224px; */
+  top: 270px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: -0.01em;
+  color: #1a2236;
+}
+
+.button {
+  box-sizing: border-box;
+  position: absolute;
+  width: 288px;
+  height: 50px;
+  left: 16px;
+  top: 390px;
+  background: #1a2236;
+}
+
+.text {
+  position: absolute;
+  width: 203.68px;
+  height: 26.47px;
+  left: 58px;
+  top: 402px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #fff;
+}

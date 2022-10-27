@@ -1,0 +1,148 @@
+
+main {
+    position: relative;
+width: 320px;
+height: 4910px;
+
+background: #FFFFFF;
+}
+
+body{
+    background: #E5E5E5;
+}
+
+.header {
+    display: block;
+}
+
+#nav {
+    display: flex;
+}
+.logo{
+    display: flex;
+}
+
+.logo1{
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    right: 246px;
+    top: 0px;
+    /* left: 0px; */
+    
+    /* background: linear-gradient(0deg, #FEC25A, #FEC25A), url(Image.png), #98DEDE;
+    background-blend-mode: normal, overlay, normal; */
+}
+
+.logo2{
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    right: 209px;
+    /* right: 37px; */
+    /* left: 37px; */
+    top: 0px;
+    
+    /* background: linear-gradient(0deg, #E35461, #E35461), url(Image.png), #E45865;
+    background-blend-mode: normal, overlay, normal; */
+} 
+
+.line1{
+position: absolute;
+width: 20px;
+height: 2px;
+left: 284px;
+top: 19px;
+
+background: #C4C4C4;
+}
+
+.line2{
+position: absolute;
+width: 20px;
+height: 2px;
+left: 284px;
+top: 25px;
+
+background: #C4C4C4;
+}
+
+.line3{
+    position: absolute;
+width: 20px;
+height: 2px;
+left: 284px;
+top: 31px;
+
+background: #C4C4C4;
+}
+
+.title {
+    position: absolute;
+width: 220px;
+height: 100px;
+left: 16px;
+top: 104px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 100%;
+/* or 50px */
+
+
+color: #1A2236;
+
+}
+
+.bio p{
+    position: absolute;
+width: 288px;
+height: 126px;
+left: 16px;
+top: 224px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.01em;
+
+color: #1A2236;
+
+}
+
+.button{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 50px;
+left: 16px;
+top: 390px;
+
+background: #1A2236;
+}
+
+.text{
+    
+
+    position: absolute;
+    width: 203.68px;
+    height: 26.47px;
+    left: 58px;
+    top: 402px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #FFFFFF;
+
+}

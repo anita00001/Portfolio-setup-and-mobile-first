@@ -20,5 +20,5 @@
 
 ## Acknowledgments
 
-- Thanks to Microverse for providing me the templates and guiding me in every step to create this project.
-- We have used Figma templates for designing.
+- Thanks to Microverse for providing us the templates and guiding us in every step to create this project.
+- We have used Figma template-5 for designing.
